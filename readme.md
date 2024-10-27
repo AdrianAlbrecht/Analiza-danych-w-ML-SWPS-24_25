@@ -22,13 +22,7 @@ Celem przedmiotu "Analiza Danych w Machine Learning" jest wprowadzenie osób stu
 
 ### 3. Ocena
 - Osoby studenckie będą oceniane na podstawie wykonanych zadań
-- Ocena jest adekwatna do sumy wszystkich punktów zebranych przez osobę studencką za wykonane przez Nią zadania według rozpiski:
-    * 0 - 50% - 2
-    * 51 - 60% - 3
-    * 61 - 70% - 3,5
-    * 71 - 80% - 4
-    * 81 - 90% - 4,5
-    * 91 - 100% - 5
+- Ocena jest adekwatna do sumy wszystkich punktów zebranych przez osobę studencką za wykonane przez Nią zadania. Wyliczany zostanie z tego procent i pomonożony przez maksymalną możliwą liczbę punktów do zdobycie na ćwiczeniach i zaokrągloną do jednostek.
 
 ## Materiały Dodatkowe
 - Podczas zajęć osoby studenckie mogą korzystać (a nawet jest to zalecane) z różnych źródeł, w tym książek, artykułów naukowych oraz tutoriali online. Zabronione jest korzystanie z pomocy ChatuGPT i innych podobnych narzędzi sztucznej inteligencji, która potrafi sama generować kod.
